@@ -5,7 +5,7 @@
   <artifactId>app2</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>app2 Maven Webapp</name>
+  <name>app2</name>
   <url>http://maven.apache.org</url>
   <properties>
 		<java.cas.client.version>3.4.1</java.cas.client.version>
